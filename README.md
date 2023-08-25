@@ -13,7 +13,7 @@ All files and code are made publicly available and can be used for further resea
 - Lab website: [martinduranlab.com](https://www.martinduranlab.com)
 
 ## How to download data files
-The files inside this repository are all compressed `.tar.gz` files stored in [GitHub Large File Storage (LFS)](https://git-lfs.github.com/) which will need to be decompressed. To view them, select the `.tar.gz` file you are interested in (e.g. [05-Chordin_orthology_assignment.tar.gz](05-Chordin_orthology_assignment.tar.gz)), click on *Download* and the file will be downloaded to your device.
+The files inside this repository are all compressed `.tar.gz` files stored in [GitHub Large File Storage (LFS)](https://git-lfs.github.com/) which will need to be decompressed. To view them, select the `.tar.gz` file you are interested in (e.g. [05-Evolutionary_analysis_H2AX_variants.tar.gz](05-Evolutionary_analysis_H2AX_variants.tar.gz)), click on *Download* and the file will be downloaded to your device.
 
 > :warning: **Some files are very heavy and download might take time to begin:** :warning: Be patient, they are correctly stored in [GitHub Large File Storage (LFS)](https://git-lfs.github.com/) and your download will eventually start.
 
@@ -23,12 +23,4 @@ The code in this repository is all stored in the [00-Code](00-Code) folder, and 
 > We believe that the script file names and the comments in the scripts make them self-explanatory, but please do not hesitate to reach out if you have any doubts or questions.
 
 ## Index of data files contents
-- [01-Owenia_fusiformis_genome_assemblies.tar.gz](01-Owenia_fusiformis_genome_assemblies.tar.gz) contains the unmasked genome files in `.fasta`/`.fa` format of the two genome assemblies versions we report in the publication:
-  - **Scaffold_level_assembly_unmasked.fa**, which is the first high-quality genome assembly that we created, upon which we have based our RNA-seq and ATAC-seq analyses, and all other analyses presented in the original publication (see above).
-  - **Chromosome_level_assembly_unmasked.fa**, which is the chromosome-level genome assembly after HiC chromosome-scale scaffolding.
-- [02-Genome_annotations.tar.gz](02-Genome_annotations.tar.gz) contains the genome annotation files with all gene models in `.gff3` format and the funcional annotation reports in `.xlsx` format for both *O. fusiformis* and *C. teleta*. Again, as described above for [01-Owenia_fusiformis_genome_assemblies.tar.gz](01-Owenia_fusiformis_genome_assemblies.tar.gz), there are two different annotation files for *O. fusiformis*, which match each of the genome asembly files.
-  - **Capitella_teleta_genome_annotation.gff3** contains the new updated gene models of *C. teleta*.
-  - **Capitella_teleta_functional_annotation.xlsx** is the functional annotation report of *C. teleta*.
-  - **Owenia_fusiformis_genome_annotation_scaffold_assembly.gff3** contains the gene models of *O. fusiformis* corresponding to **Scaffold_level_assembly_unmasked.fa**.
-
 
