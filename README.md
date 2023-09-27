@@ -4,7 +4,7 @@ This GitHub repository contains the supplementary data and the custom code used 
 ## How to use and cite these files and code
 All files and code are made publicly available and can be used for further research and other applications. However, if you use these resources in your work, we kindly ask you to cite our original publication.
 > **Histone-based regulation of annelid development and life cycle heterochronies.**
-> Francisco M. Martín-Zamora§, Joby Cole, Nancy Ellis, Rory D. Donnellan, Kero Guynes, Allan M. Carrillo-Baltodano, Mark Dickman, Paul J. Hurd, José M. Martín-Durán.
+> Francisco M. Martín-Zamora, Joby Cole, Nancy Ellis, Rory D. Donnellan, Kero Guynes, Allan M. Carrillo-Baltodano, Mark Dickman, Paul J. Hurd, José M. Martín-Durán.
 > Manuscript in preparation.
 
 ## Author contact
