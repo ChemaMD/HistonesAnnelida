@@ -28,6 +28,7 @@ The code in this repository is all stored in the [00-Code](00-Code) folder, and 
 - **<Species_name>_mRNA.fa** contains the mRNA/transcript sequences of the core histone genes.
 - **<Species_name>_protein.fa** contains the protein sequences of the core histone genes.
 
+
 [03-Histone_genes_orthology_assignment.tar.gz](03-Histone_genes_orthology_assignment.tar.gz) contains the multiple sequence alignment files in `.fasta`/`.fa` and `.pdf` formats (and `.nexus`, where applicable) we used to assign the orthology of the core histone genes, as well as a report on the amino acid changes observed in the core histone genes (and pseudogenes).
 - **Core_histones_alignment.fa** and **Core_histones_alignment.nexus** contain the multiple sequence alignments associated to the maximum likelihood and Bayesian phylogenetic analyses we used to assign the orthology of core histone genes.
 - **Core_histones_alignment.pdf** is a graphic visualisation of the files described above.
