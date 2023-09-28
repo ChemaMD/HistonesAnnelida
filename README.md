@@ -38,4 +38,25 @@ The code in this repository is all stored in the [00-Code](00-Code) folder, and 
 Then, for each core histone family, that is, H2A, H2B, H3, and H4:
 - **<Histone_family>_family_alignment.fa** contains the multiple sequence alignments used to investigate amino acid changes in each histone gene (and pseudogene).
 - **<Histone_family>_family_alignment.pdf** is a graphic visualisation of the file described above.
-  Lastly, 
+
+
+[04-Gene_expression_profiling.tar.gz](04-Gene_expression_profiling.tar.gz) contains the gene expression matrices in `.txt` format in transcripts-per-million (TPM) and after DESeq2 normalisation of the developmental RNA-seq time courses of *O. fusiformis*, *C. teleta*, and *D. gyrociliatus*. These contain all transcripts (i.e., all isoforms per gene model), both split by biological replicates and averaged by developmental stage, after the re-profiling with the updated gene models containing the curated core histone genes. For each species:
+- **RNAseq_<Species_name>_TPM_replicates.txt** is the gene expression matrix of all transcripts in TPM split by replicates.
+- **RNAseq_<Species_name>_TPM_average.txt** is the gene expression matrix of all transcripts in TPM averaged by developmental stage.
+- **RNAseq_<Species_name>_DESeq2_replicates.txt** is the gene expression matrix of all transcripts in DESeq2 normalised values split by replicates.
+- **RNAseq_<Species_name>_DESeq2_average.txt** is the gene expression matrix of all transcripts in DESeq2 normalised values averaged by developmental stage.
+
+
+All files contain a suffix of the form **_vDDMMYY** that stands for version and the date in which the re-profiling took place.
+
+
+[05-Evolutionary_analysis_H2AX_variants.tar.gz](05-Evolutionary_analysis_H2AX_variants.tar.gz) contains the multiple sequence alignment files in `.fasta`/`.fa` and Clustal `.aln` formats (and `.pdf`, where applicable) we used during the evolutionary analyses of H2A.X variants across Eukarya.
+- **H2A.X_selected_species_alignment.fa** and **H2A.X_selected_speices_alignment.nexus** contain the multiple sequence alignments shown to highlight the variability of the position 142 in H2A.X proteins.
+- **H2A.X_selected_species_alignment.pdf** is a graphic visualisation of the files described above.
+- **H2A.X_PHI-BLAST_Eukarya_alignment.fa** and **H2A.X_PHI-BLAST_Eukarya_alignment.aln** contain the multiple sequence alignments associated to the maximum likelihood analyses we used to understand the evolution of the C-terminus of H2A.X variants.
+
+
+Then, for each eukaryotic clade, namely Chordata, Spiralia, Arthropoda, Streptophyta, and Eukarya(_curated):
+- **H2A.X_terminal_motif_alignment_<clade>.fa** and **H2A.X_terminal_motif_alignment_<clade>.aln** contain the alignments corresponding to the C-termini of selected eukaryotic H2A.X sequences that were used to generate the C-terminal motif logos.
+
+
