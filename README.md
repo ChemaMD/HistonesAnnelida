@@ -33,6 +33,7 @@ The code in this repository is all stored in the [00-Code](00-Code) folder, and 
 - **Core_histones_alignment.fa** and **Core_histones_alignment.nexus** contain the multiple sequence alignments associated to the maximum likelihood and Bayesian phylogenetic analyses we used to assign the orthology of core histone genes.
 - **Core_histones_alignment.pdf** is a graphic visualisation of the files described above.
 
+
 Then, for each core histone family, that is, H2A, H2B, H3, and H4:
 - **<Histone_family>_family_alignment.fa** contains the multiple sequence alignments used to investigate amino acid changes in each histone gene (and pseudogene).
 - **<Histone_family>_family_alignment.pdf** is a graphic visualisation of the file described above.
