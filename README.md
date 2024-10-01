@@ -4,8 +4,7 @@ This GitHub repository contains the supplementary data and the custom code used 
 ## How to use and cite these files and code
 All files and code are made publicly available and can be used for further research and other applications. However, if you use these resources in your work, we kindly ask you to cite our original publication.
 > **The evolution and developmental dynamics of histone-based chromatin regulation in Annelida.**
-> Francisco M. Martín-Zamora, Joby Cole, Rory D. Donnellan, Kero Guynes, Allan M. Carrillo-Baltodano, Mark Dickman, Paul J. Hurd, José M. Martín-Durán.
-> Manuscript in preparation.
+> Francisco M. Martín-Zamora, Joby Cole, Rory D. Donnellan, Kero Guynes, Allan M. Carrillo-Baltodano, Mark Dickman, Paul J. Hurd, José M. Martín-Durán. *bioRxiv* 2024.09.20.614060. https://doi.org/10.1101/2024.09.20.614060
 
 ## Author contact
 - [José M. Martín-Durán](mailto:chema.martin@qmul.ac.uk) (senior author, corresponding author)
@@ -23,6 +22,9 @@ The code in this repository is all stored in the [00-Code](00-Code) folder, and 
 > We believe that the script file names and the comments in the scripts make them self-explanatory, but please do not hesitate to reach out if you have any doubts or questions.
 
 ## Index of data files contents
+
+[Supplementary_Tables.xlsx](Supplementary_Tables.xlsx) contains all the Supplementary Tables associated with the manuscript.
+
 [01-Updated_genomes.tar.gz](01-Updated_genomes.tar.gz) contains all the relevant genome annotation files and gene models for the three different species after our manual histone gene mining. For each species:
 - **<Species_name>_genome_annotation_report_v1_deleted_entries.xlsx** contains a report detailing the list of gene models that were removed from the original genome annotation files and are now replaced by manually curated histone genes.
 - **<Species_name>_genome_annotation_v2.gff3** contains the `.gff3` file with the full genome annotation, including the manually curated histone genes.
