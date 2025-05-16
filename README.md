@@ -1,10 +1,8 @@
-# The evolution and developmental dynamics of histone-based chromatin regulation in Annelida - Supplementary Data
+# A dynamic histone-based chromatin regulatory toolkit underpins genome and developmental evolution in an invertebrate clade
 This GitHub repository contains the supplementary data and the custom code used in the publication cited below.
 
 ## How to use and cite these files and code
-All files and code are made publicly available and can be used for further research and other applications. However, if you use these resources in your work, we kindly ask you to cite our original publication.
-> **The evolution and developmental dynamics of histone-based chromatin regulation in Annelida.**
-> Francisco M. Martín-Zamora, Joby Cole, Rory D. Donnellan, Kero Guynes, Allan M. Carrillo-Baltodano, Mark Dickman, Paul J. Hurd, José M. Martín-Durán. *bioRxiv* 2024.09.20.614060. https://doi.org/10.1101/2024.09.20.614060
+All files and code are made publicly available and can be used for further research and other applications. However, if you use these resources in your work, we kindly ask you to cite our original publication in Genome Biology.
 
 ## Author contact
 - [José M. Martín-Durán](mailto:chema.martin@qmul.ac.uk) (senior author, corresponding author)
